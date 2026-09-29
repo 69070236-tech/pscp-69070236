@@ -110,9 +110,9 @@ You may write pseudocode, a flowchart idea, or step-by-step thinking.
 1. Receive input
 2. Insert the starting point and end point into lists
 3. Create a list to store all piece sizes
-3. Use a nested loop to append the size
-4. Sort the list
-5. Print the last and second-to-last values
+4. Use a nested loop to append the size
+5. Sort the list
+6. Print the last and second-to-last values
 ```
 
 ---
